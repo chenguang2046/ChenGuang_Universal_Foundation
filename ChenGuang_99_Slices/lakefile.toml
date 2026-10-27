@@ -1,0 +1,10 @@
+name = "ChenGuang_99_Slices"
+version = "0.1.0"
+defaultTargets = ["ChenGuang_99_Slices"]
+
+[[require]]
+name = "mathlib"
+path = "../.lake/packages/mathlib"
+
+[[lean_lib]]
+name = "ChenGuang_99_Slices"
